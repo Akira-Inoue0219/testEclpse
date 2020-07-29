@@ -14,6 +14,7 @@ public class Main {
 			System.out.println("はずれ");
 		}
 		System.out.println("hello github");
+		System.out.println(a>r?"atari":"hazure");
 
 	}
 
