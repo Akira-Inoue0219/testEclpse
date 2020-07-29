@@ -13,6 +13,7 @@ public class Main {
 		}else {
 			System.out.println("はずれ");
 		}
+		System.out.println("hello github");
 
 	}
 
